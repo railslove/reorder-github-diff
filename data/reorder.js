@@ -1,6 +1,5 @@
 // jquery hacking... omg :)
 // iterationg over all files, searching for the spec file and inserting that dom element after the actual file
-alert("hallo");
 reorderInterval = setInterval(function() {
   if($('#files_bucket.is-visible').length == 0 || $('#files_bucket.is-visible').data("reordered") == true) {
     return;

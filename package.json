@@ -1,9 +1,9 @@
 {
   "name": "reorder-github-pull-files",
-  "title": "reorder-github-pull-files",
+  "title": "Reorder Github Pull Request file diffs",
   "id": "jid1-9vf1tURoP0oGjw",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Reorders the Github Pull Request file diff view to display the spec files below the actual code file",
+  "author": "Michael Bumann",
   "license": "MPL 2.0",
   "version": "0.1"
 }
