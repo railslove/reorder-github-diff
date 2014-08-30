@@ -5,6 +5,15 @@ This firefox extension reorders the Github Pull Request file diff view to displa
 While doing code reviews I found it helpfull to have a look at the code and test file at the same time. But depending on the size of the PR finding the corresponding spec file can be annoying. 
 To make this easier this little extension reorders the view. You find the spec files directly after the code file. 
 
+Installation
+--------------
+
+The extension is currently not published. So you need to install the extension manually:
+* Download the .xpi file
+* Open Firefox and go to Tools > Add-ons
+* Open the menue on the top right (next to the search bar) and select "Install Add-on From File"
+* select the downloaded .xpi file
+* done
 
 ToDo
 --------------
