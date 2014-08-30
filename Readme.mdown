@@ -13,7 +13,7 @@ The extension is currently not published. So you need to install the extension m
 * Open Firefox and go to Tools > Add-ons
 * Open the menue on the top right (next to the search bar) and select "Install Add-on From File"
 * select the downloaded .xpi file
-* done
+* maybe restart your firefox and done.
 
 ToDo
 --------------
@@ -23,4 +23,4 @@ ToDo
 
 
 
-*Use it at your own risk*
+*Use it at your own risk - I have no idea what I am doing: http://share-michaelbumann-com.s3-website-eu-west-1.amazonaws.com/screenshots/sandboarding.gif*
