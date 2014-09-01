@@ -15,12 +15,13 @@ The extension is currently not published. So you need to install the extension m
 * select the downloaded .xpi file
 * maybe restart your firefox and done.
 
-ToDo
+ToDos
 --------------
 
 * currently it only supports _spec files. We should also support _test files
-* make a chrome extension
+* make a Chrome extension
 
 
 
-*Use it at your own risk - I have no idea what I am doing: http://share-michaelbumann-com.s3-website-eu-west-1.amazonaws.com/screenshots/sandboarding.gif*
+* Use it at your own risk - I have no idea what I am doing:  
+  ![sandboarding](http://share-michaelbumann-com.s3-website-eu-west-1.amazonaws.com/screenshots/sandboarding.gif)
