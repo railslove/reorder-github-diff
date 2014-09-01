@@ -22,5 +22,6 @@ ToDos
 * make a Chrome extension
 
 
-
-* Use it at your own risk - I have no idea what I am doing: ![gif](http://im.ezgif.com/tmp/gif_100x67_d59a40.gif)
+----
+Use it at your own risk - I have no idea what I am doing: 
+![gif](http://im.ezgif.com/tmp/gif_100x67_d59a40.gif)
