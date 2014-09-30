@@ -1,6 +1,6 @@
 // jquery hacking... omg :)
 // iterationg over all files, searching for the spec file and inserting that dom element after the actual file
-reorderInterval = setInterval(function() {
+window.reorderExtensionInterval = setInterval(function() {
   if($('#files_bucket.is-visible').length == 0 || $('#files_bucket.is-visible').data("reordered") == true) {
     return;
   }
@@ -22,7 +22,9 @@ reorderInterval = setInterval(function() {
         }
       }
     }
-  })
-  $('#files_bucket.is-visible').data("reordered", true);
-  clearInterval(reorderInterval);
+  });
+  if($('#files .js-details-container').length > 0) {
+    $('#files_bucket.is-visible').data("reordered", true);
+    clearInterval(window.reorderExtensionInterval);
+  }
 }, 500);
